@@ -1,15 +1,4 @@
-<div align="center">
-<img src="https://developer.apple.com/fonts/images/fonts-hero-large_2x.png">
-</div>
 
-<h1 align="center">Apple fonts for CSS</h1>
-<div align="center">
-Fonts designed by Apple in California.
-<br>
-Intended for personal / non-commercial use.
-
-**https://developer.apple.com/fonts/**
-</div>
 
 <br>
 
@@ -85,15 +74,3 @@ Converter used: https://kombu.kanejaku.org/
 
 <br>
 
-###### CSS Import
-```css
-@import url("https://rawcdn.githack.com/yurifuko/AppleFontsCSS/63d11c4a50ce8ee001f70870bbe4f2752983848d/Apple-fonts.css");
-```
-###### HTML Stylesheet
-```html
-<link rel="stylesheet" href="https://rawcdn.githack.com/yurifuko/AppleFontsCSS/63d11c4a50ce8ee001f70870bbe4f2752983848d/Apple-fonts.css">
-```
-###### The raw CDN:
-```
-https://rawcdn.githack.com/yurifuko/AppleFontsCSS/63d11c4a50ce8ee001f70870bbe4f2752983848d/Apple-fonts.css
-```
