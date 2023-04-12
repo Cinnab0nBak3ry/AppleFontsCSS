@@ -1,0 +1,916 @@
+/* ===========================================
+     Designed by Apple in California 
+
+     https://developer.apple.com/fonts/ 
+=========================================== */
+
+/* 
+     SAN FRANCISCO 
+*/
+
+/* SF Pro Display */
+@font-face {
+     font-family: "SF Pro Display";
+     src: url("SanFrancisco/SF-Pro-Display-Thin.woff2") format("woff2");
+     font-weight: 100;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Display";
+     src: url("SanFrancisco/SF-Pro-Display-Ultralight.woff2") format("woff2");
+     font-weight: 200;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Display";
+     src: url("SanFrancisco/SF-Pro-Display-Light.woff2") format("woff2");
+     font-weight: 300;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Display";
+     src: url("SanFrancisco/SF-Pro-Display-Regular.woff2") format("woff2");
+     font-weight: 400;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Display";
+     src: url("SanFrancisco/SF-Pro-Display-Medium.woff2") format("woff2");
+     font-weight: 500;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Display";
+     src: url("SanFrancisco/SF-Pro-Display-Semibold.woff2") format("woff2");
+     font-weight: 600;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Display";
+     src: url("SanFrancisco/SF-Pro-Display-Bold.woff2") format("woff2");
+     font-weight: 700;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Display";
+     src: url("SanFrancisco/SF-Pro-Display-Heavy.woff2") format("woff2");
+     font-weight: 800;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Display";
+     src: url("SanFrancisco/SF-Pro-Display-Black.woff2") format("woff2");
+     font-weight: 900;
+     font-style: normal;
+}
+/* SF Pro Display Italic */
+@font-face {
+     font-family: "SF Pro Display";
+     src: url("SanFrancisco/SF-Pro-Display-ThinItalic.woff2") format("woff2");
+     font-weight: 100;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Pro Display";
+     src: url("SanFrancisco/SF-Pro-Display-UltralightItalic.woff2") format("woff2");
+     font-weight: 200;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Pro Display";
+     src: url("SanFrancisco/SF-Pro-Display-LightItalic.woff2") format("woff2");
+     font-weight: 300;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Pro Display";
+     src: url("SanFrancisco/SF-Pro-Display-RegularItalic.woff2") format("woff2");
+     font-weight: 400;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Pro Display";
+     src: url("SanFrancisco/SF-Pro-Display-MediumItalic.woff2") format("woff2");
+     font-weight: 500;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Pro Display";
+     src: url("SanFrancisco/SF-Pro-Display-SemiboldItalic.woff2") format("woff2");
+     font-weight: 600;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Pro Display";
+     src: url("SanFrancisco/SF-Pro-Display-BoldItalic.woff2") format("woff2");
+     font-weight: 700;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Pro Display";
+     src: url("SanFrancisco/SF-Pro-Display-HeavyItalic.woff2") format("woff2");
+     font-weight: 800;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Pro Display";
+     src: url("SanFrancisco/SF-Pro-Display-BlackItalic.woff2") format("woff2");
+     font-weight: 900;
+     font-style: italic;
+}
+/* SF Pro Rounded */
+@font-face {
+     font-family: "SF Pro Rounded";
+     src: url("SanFrancisco/SF-Pro-Rounded-Thin.woff2") format("woff2");
+     font-weight: 100;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Rounded";
+     src: url("SanFrancisco/SF-Pro-Rounded-Ultralight.woff2") format("woff2");
+     font-weight: 200;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Rounded";
+     src: url("SanFrancisco/SF-Pro-Rounded-Light.woff2") format("woff2");
+     font-weight: 300;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Rounded";
+     src: url("SanFrancisco/SF-Pro-Rounded-Regular.woff2") format("woff2");
+     font-weight: 400;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Rounded";
+     src: url("SanFrancisco/SF-Pro-Rounded-Medium.woff2") format("woff2");
+     font-weight: 500;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Rounded";
+     src: url("SanFrancisco/SF-Pro-Rounded-Semibold.woff2") format("woff2");
+     font-weight: 600;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Rounded";
+     src: url("SanFrancisco/SF-Pro-Rounded-Bold.woff2") format("woff2");
+     font-weight: 700;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Rounded";
+     src: url("SanFrancisco/SF-Pro-Rounded-Heavy.woff2") format("woff2");
+     font-weight: 800;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Rounded";
+     src: url("SanFrancisco/SF-Pro-Rounded-Black.woff2") format("woff2");
+     font-weight: 900;
+     font-style: normal;
+}
+/* SF Pro Text */
+@font-face {
+     font-family: "SF Pro Text";
+     src: url("SanFrancisco/SF-Pro-Text-Thin.woff2") format("woff2");
+     font-weight: 100;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Text";
+     src: url("SanFrancisco/SF-Pro-Text-Ultralight.woff2") format("woff2");
+     font-weight: 200;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Text";
+     src: url("SanFrancisco/SF-Pro-Text-Light.woff2") format("woff2");
+     font-weight: 300;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Text";
+     src: url("SanFrancisco/SF-Pro-Text-Regular.woff2") format("woff2");
+     font-weight: 400;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Text";
+     src: url("SanFrancisco/SF-Pro-Text-Medium.woff2") format("woff2");
+     font-weight: 500;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Text";
+     src: url("SanFrancisco/SF-Pro-Text-Semibold.woff2") format("woff2");
+     font-weight: 600;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Text";
+     src: url("SanFrancisco/SF-Pro-Text-Bold.woff2") format("woff2");
+     font-weight: 700;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Text";
+     src: url("SanFrancisco/SF-Pro-Text-Heavy.woff2") format("woff2");
+     font-weight: 800;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Pro Text";
+     src: url("SanFrancisco/SF-Pro-Text-Black.woff2") format("woff2");
+     font-weight: 900;
+     font-style: normal;
+}
+/* SF Pro Text Italic */
+@font-face {
+     font-family: "SF Pro Text";
+     src: url("SanFrancisco/SF-Pro-Text-ThinItalic.woff2") format("woff2");
+     font-weight: 100;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Pro Text";
+     src: url("SanFrancisco/SF-Pro-Text-UltralightItalic.woff2") format("woff2");
+     font-weight: 200;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Pro Text";
+     src: url("SanFrancisco/SF-Pro-Text-LightItalic.woff2") format("woff2");
+     font-weight: 300;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Pro Text";
+     src: url("SanFrancisco/SF-Pro-Text-RegularItalic.woff2") format("woff2");
+     font-weight: 400;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Pro Text";
+     src: url("SanFrancisco/SF-Pro-Text-MediumItalic.woff2") format("woff2");
+     font-weight: 500;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Pro Text";
+     src: url("SanFrancisco/SF-Pro-Text-SemiboldItalic.woff2") format("woff2");
+     font-weight: 600;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Pro Text";
+     src: url("SanFrancisco/SF-Pro-Text-BoldItalic.woff2") format("woff2");
+     font-weight: 700;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Pro Text";
+     src: url("SanFrancisco/SF-Pro-Text-HeavyItalic.woff2") format("woff2");
+     font-weight: 800;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Pro Text";
+     src: url("SanFrancisco/SF-Pro-Text-BlackItalic.woff2") format("woff2");
+     font-weight: 900;
+     font-style: italic;
+}
+/* SF Compact Display */
+@font-face {
+     font-family: "SF Compact Display";
+     src: url("SanFrancisco/SF-Compact-Display-Thin.woff2") format("woff2");
+     font-weight: 100;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Display";
+     src: url("SanFrancisco/SF-Compact-Display-Ultralight.woff2") format("woff2");
+     font-weight: 200;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Display";
+     src: url("SanFrancisco/SF-Compact-Display-Light.woff2") format("woff2");
+     font-weight: 300;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Display";
+     src: url("SanFrancisco/SF-Compact-Display-Regular.woff2") format("woff2");
+     font-weight: 400;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Display";
+     src: url("SanFrancisco/SF-Compact-Display-Medium.woff2") format("woff2");
+     font-weight: 500;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Display";
+     src: url("SanFrancisco/SF-Compact-Display-Semibold.woff2") format("woff2");
+     font-weight: 600;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Display";
+     src: url("SanFrancisco/SF-Compact-Display-Bold.woff2") format("woff2");
+     font-weight: 700;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Display";
+     src: url("SanFrancisco/SF-Compact-Display-Heavy.woff2") format("woff2");
+     font-weight: 800;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Display";
+     src: url("SanFrancisco/SF-Compact-Display-Black.woff2") format("woff2");
+     font-weight: 900;
+     font-style: normal;
+}
+/* SF Compact Rounded */
+@font-face {
+     font-family: "SF Compact Rounded";
+     src: url("SanFrancisco/SF-Compact-Rounded-Thin.woff2") format("woff2");
+     font-weight: 100;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Rounded";
+     src: url("SanFrancisco/SF-Compact-Rounded-Ultralight.woff2") format("woff2");
+     font-weight: 200;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Rounded";
+     src: url("SanFrancisco/SF-Compact-Rounded-Light.woff2") format("woff2");
+     font-weight: 300;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Rounded";
+     src: url("SanFrancisco/SF-Compact-Rounded-Regular.woff2") format("woff2");
+     font-weight: 400;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Rounded";
+     src: url("SanFrancisco/SF-Compact-Rounded-Medium.woff2") format("woff2");
+     font-weight: 500;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Rounded";
+     src: url("SanFrancisco/SF-Compact-Rounded-Semibold.woff2") format("woff2");
+     font-weight: 600;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Rounded";
+     src: url("SanFrancisco/SF-Compact-Rounded-Bold.woff2") format("woff2");
+     font-weight: 700;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Rounded";
+     src: url("SanFrancisco/SF-Compact-Rounded-Heavy.woff2") format("woff2");
+     font-weight: 800;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Rounded";
+     src: url("SanFrancisco/SF-Compact-Rounded-Black.woff2") format("woff2");
+     font-weight: 900;
+     font-style: normal;
+}
+/* SF Compact Text */
+@font-face {
+     font-family: "SF Compact Text";
+     src: url("SanFrancisco/SF-Compact-Text-Thin.woff2") format("woff2");
+     font-weight: 100;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Text";
+     src: url("SanFrancisco/SF-Compact-Text-Ultralight.woff2") format("woff2");
+     font-weight: 200;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Text";
+     src: url("SanFrancisco/SF-Compact-Text-Light.woff2") format("woff2");
+     font-weight: 300;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Text";
+     src: url("SanFrancisco/SF-Compact-Text-Regular.woff2") format("woff2");
+     font-weight: 400;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Text";
+     src: url("SanFrancisco/SF-Compact-Text-Medium.woff2") format("woff2");
+     font-weight: 500;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Text";
+     src: url("SanFrancisco/SF-Compact-Text-Semibold.woff2") format("woff2");
+     font-weight: 600;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Text";
+     src: url("SanFrancisco/SF-Compact-Text-Bold.woff2") format("woff2");
+     font-weight: 700;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Text";
+     src: url("SanFrancisco/SF-Compact-Text-Heavy.woff2") format("woff2");
+     font-weight: 800;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Compact Text";
+     src: url("SanFrancisco/SF-Compact-Text-Black.woff2") format("woff2");
+     font-weight: 900;
+     font-style: normal;
+}
+/* SF Compact Text Italic */
+@font-face {
+     font-family: "SF Compact Text";
+     src: url("SanFrancisco/SF-Compact-Text-ThinItalic.woff2") format("woff2");
+     font-weight: 100;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Compact Text";
+     src: url("SanFrancisco/SF-Compact-Text-UltralightItalic.woff2") format("woff2");
+     font-weight: 200;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Compact Text";
+     src: url("SanFrancisco/SF-Compact-Text-LightItalic.woff2") format("woff2");
+     font-weight: 300;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Compact Text";
+     src: url("SanFrancisco/SF-Compact-Text-RegularItalic.woff2") format("woff2");
+     font-weight: 400;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Compact Text";
+     src: url("SanFrancisco/SF-Compact-Text-MediumItalic.woff2") format("woff2");
+     font-weight: 500;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Compact Text";
+     src: url("SanFrancisco/SF-Compact-Text-SemiboldItalic.woff2") format("woff2");
+     font-weight: 600;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Compact Text";
+     src: url("SanFrancisco/SF-Compact-Text-BoldItalic.woff2") format("woff2");
+     font-weight: 700;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Compact Text";
+     src: url("SanFrancisco/SF-Compact-Text-HeavyItalic.woff2") format("woff2");
+     font-weight: 800;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Compact Text";
+     src: url("SanFrancisco/SF-Compact-Text-BlackItalic.woff2") format("woff2");
+     font-weight: 900;
+     font-style: italic;
+}
+/* SF Mono */
+@font-face {
+     font-family: "SF Mono";
+     src: url("SanFrancisco/SF-Mono-Light.woff2") format("woff2");
+     font-weight: 100;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Mono";
+     src: url("SanFrancisco/SF-Mono-Light.woff2") format("woff2");
+     font-weight: 200;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Mono";
+     src: url("SanFrancisco/SF-Mono-Light.woff2") format("woff2");
+     font-weight: 300;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Mono";
+     src: url("SanFrancisco/SF-Mono-Regular.woff2") format("woff2");
+     font-weight: 400;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Mono";
+     src: url("SanFrancisco/SF-Mono-Medium.woff2") format("woff2");
+     font-weight: 500;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Mono";
+     src: url("SanFrancisco/SF-Mono-Semibold.woff2") format("woff2");
+     font-weight: 600;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Mono";
+     src: url("SanFrancisco/SF-Mono-Bold.woff2") format("woff2");
+     font-weight: 700;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Mono";
+     src: url("SanFrancisco/SF-Mono-Heavy.woff2") format("woff2");
+     font-weight: 800;
+     font-style: normal;
+}
+@font-face {
+     font-family: "SF Mono";
+     src: url("SanFrancisco/SF-Mono-Heavy.woff2") format("woff2");
+     font-weight: 900;
+     font-style: normal;
+}
+/* SF Mono Italic */
+@font-face {
+     font-family: "SF Mono";
+     src: url("SanFrancisco/SF-Mono-LightItalic.woff2") format("woff2");
+     font-weight: 100;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Mono";
+     src: url("SanFrancisco/SF-Mono-LightItalic.woff2") format("woff2");
+     font-weight: 200;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Mono";
+     src: url("SanFrancisco/SF-Mono-LightItalic.woff2") format("woff2");
+     font-weight: 300;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Mono";
+     src: url("SanFrancisco/SF-Mono-RegularItalic.woff2") format("woff2");
+     font-weight: 400;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Mono";
+     src: url("SanFrancisco/SF-Mono-MediumItalic.woff2") format("woff2");
+     font-weight: 500;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Mono";
+     src: url("SanFrancisco/SF-Mono-SemiboldItalic.woff2") format("woff2");
+     font-weight: 600;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Mono";
+     src: url("SanFrancisco/SF-Mono-BoldItalic.woff2") format("woff2");
+     font-weight: 700;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Mono";
+     src: url("SanFrancisco/SF-Mono-HeavyItalic.woff2") format("woff2");
+     font-weight: 800;
+     font-style: italic;
+}
+@font-face {
+     font-family: "SF Mono";
+     src: url("SanFrancisco/SF-Mono-HeavyItalic.woff2") format("woff2");
+     font-weight: 900;
+     font-style: italic;
+}
+
+/* 
+     NEW YORK
+*/
+
+/* New York Extra Large */
+@font-face {
+     font-family: "New York Extra Large";
+     src: url("NewYork/NewYorkExtraLarge-Regular.woff2") format("woff2");
+     font-weight: 400;
+     font-style: normal;
+}
+@font-face {
+     font-family: "New York Extra Large";
+     src: url("NewYork/NewYorkExtraLarge-Medium.woff2") format("woff2");
+     font-weight: 500;
+     font-style: normal;
+}
+@font-face {
+     font-family: "New York Extra Large";
+     src: url("NewYork/NewYorkExtraLarge-Semibold.woff2") format("woff2");
+     font-weight: 600;
+     font-style: normal;
+}
+@font-face {
+     font-family: "New York Extra Large";
+     src: url("NewYork/NewYorkExtraLarge-Bold.woff2") format("woff2");
+     font-weight: 700;
+     font-style: normal;
+}
+@font-face {
+     font-family: "New York Extra Large";
+     src: url("NewYork/NewYorkExtraLarge-Heavy.woff2") format("woff2");
+     font-weight: 800;
+     font-style: normal;
+}
+@font-face {
+     font-family: "New York Extra Large";
+     src: url("NewYork/NewYorkExtraLarge-Black.woff2") format("woff2");
+     font-weight: 900;
+     font-style: normal;
+}
+/* New York Extra Large Italic */
+@font-face {
+     font-family: "New York Extra Large";
+     src: url("NewYork/NewYorkExtraLarge-RegularItalic.woff2") format("woff2");
+     font-weight: 400;
+     font-style: italic;
+}
+@font-face {
+     font-family: "New York Extra Large";
+     src: url("NewYork/NewYorkExtraLarge-MediumItalic.woff2") format("woff2");
+     font-weight: 500;
+     font-style: italic;
+}
+@font-face {
+     font-family: "New York Extra Large";
+     src: url("NewYork/NewYorkExtraLarge-SemiboldItalic.woff2") format("woff2");
+     font-weight: 600;
+     font-style: italic;
+}
+@font-face {
+     font-family: "New York Extra Large";
+     src: url("NewYork/NewYorkExtraLarge-BoldItalic.woff2") format("woff2");
+     font-weight: 700;
+     font-style: italic;
+}
+@font-face {
+     font-family: "New York Extra Large";
+     src: url("NewYork/NewYorkExtraLarge-HeavyItalic.woff2") format("woff2");
+     font-weight: 800;
+     font-style: italic;
+}
+@font-face {
+     font-family: "New York Extra Large";
+     src: url("NewYork/NewYorkExtraLarge-BlackItalic.woff2") format("woff2");
+     font-weight: 900;
+     font-style: italic;
+}
+/* New York Large */
+@font-face {
+     font-family: "New York Large";
+     src: url("NewYork/NewYorkLarge-Regular.woff2") format("woff2");
+     font-weight: 400;
+     font-style: normal;
+}
+@font-face {
+     font-family: "New York Large";
+     src: url("NewYork/NewYorkLarge-Medium.woff2") format("woff2");
+     font-weight: 500;
+     font-style: normal;
+}
+@font-face {
+     font-family: "New York Large";
+     src: url("NewYork/NewYorkLarge-Semibold.woff2") format("woff2");
+     font-weight: 600;
+     font-style: normal;
+}
+@font-face {
+     font-family: "New York Large";
+     src: url("NewYork/NewYorkLarge-Bold.woff2") format("woff2");
+     font-weight: 700;
+     font-style: normal;
+}
+@font-face {
+     font-family: "New York Large";
+     src: url("NewYork/NewYorkLarge-Heavy.woff2") format("woff2");
+     font-weight: 800;
+     font-style: normal;
+}
+@font-face {
+     font-family: "New York Large";
+     src: url("NewYork/NewYorkLarge-Black.woff2") format("woff2");
+     font-weight: 900;
+     font-style: normal;
+}
+/* New York Large Italic */
+@font-face {
+     font-family: "New York Large";
+     src: url("NewYork/NewYorkLarge-RegularItalic.woff2") format("woff2");
+     font-weight: 400;
+     font-style: italic;
+}
+@font-face {
+     font-family: "New York Large";
+     src: url("NewYork/NewYorkLarge-MediumItalic.woff2") format("woff2");
+     font-weight: 500;
+     font-style: italic;
+}
+@font-face {
+     font-family: "New York Large";
+     src: url("NewYork/NewYorkLarge-SemiboldItalic.woff2") format("woff2");
+     font-weight: 600;
+     font-style: italic;
+}
+@font-face {
+     font-family: "New York Large";
+     src: url("NewYork/NewYorkLarge-BoldItalic.woff2") format("woff2");
+     font-weight: 700;
+     font-style: italic;
+}
+@font-face {
+     font-family: "New York Large";
+     src: url("NewYork/NewYorkLarge-HeavyItalic.woff2") format("woff2");
+     font-weight: 800;
+     font-style: italic;
+}
+@font-face {
+     font-family: "New York Large";
+     src: url("NewYork/NewYorkLarge-BlackItalic.woff2") format("woff2");
+     font-weight: 900;
+     font-style: italic;
+}
+/* New York Medium */
+@font-face {
+     font-family: "New York Medium";
+     src: url("NewYork/NewYorkMedium-Regular.woff2") format("woff2");
+     font-weight: 400;
+     font-style: normal;
+}
+@font-face {
+     font-family: "New York Medium";
+     src: url("NewYork/NewYorkMedium-Medium.woff2") format("woff2");
+     font-weight: 500;
+     font-style: normal;
+}
+@font-face {
+     font-family: "New York Medium";
+     src: url("NewYork/NewYorkMedium-Semibold.woff2") format("woff2");
+     font-weight: 600;
+     font-style: normal;
+}
+@font-face {
+     font-family: "New York Medium";
+     src: url("NewYork/NewYorkMedium-Bold.woff2") format("woff2");
+     font-weight: 700;
+     font-style: normal;
+}
+@font-face {
+     font-family: "New York Medium";
+     src: url("NewYork/NewYorkMedium-Heavy.woff2") format("woff2");
+     font-weight: 800;
+     font-style: normal;
+}
+@font-face {
+     font-family: "New York Medium";
+     src: url("NewYork/NewYorkMedium-Black.woff2") format("woff2");
+     font-weight: 900;
+     font-style: normal;
+}
+/* New York Medium Italic */
+@font-face {
+     font-family: "New York Medium";
+     src: url("NewYork/NewYorkMedium-RegularItalic.woff2") format("woff2");
+     font-weight: 400;
+     font-style: italic;
+}
+@font-face {
+     font-family: "New York Medium";
+     src: url("NewYork/NewYorkMedium-MediumItalic.woff2") format("woff2");
+     font-weight: 500;
+     font-style: italic;
+}
+@font-face {
+     font-family: "New York Medium";
+     src: url("NewYork/NewYorkMedium-SemiboldItalic.woff2") format("woff2");
+     font-weight: 600;
+     font-style: italic;
+}
+@font-face {
+     font-family: "New York Medium";
+     src: url("NewYork/NewYorkMedium-BoldItalic.woff2") format("woff2");
+     font-weight: 700;
+     font-style: italic;
+}
+@font-face {
+     font-family: "New York Medium";
+     src: url("NewYork/NewYorkMedium-HeavyItalic.woff2") format("woff2");
+     font-weight: 800;
+     font-style: italic;
+}
+@font-face {
+     font-family: "New York Medium";
+     src: url("NewYork/NewYorkMedium-BlackItalic.woff2") format("woff2");
+     font-weight: 900;
+     font-style: italic;
+}
+/* New York Small */
+@font-face {
+     font-family: "New York Small";
+     src: url("NewYork/NewYorkSmall-Regular.woff2") format("woff2");
+     font-weight: 400;
+     font-style: normal;
+}
+@font-face {
+     font-family: "New York Small";
+     src: url("NewYork/NewYorkSmall-Medium.woff2") format("woff2");
+     font-weight: 500;
+     font-style: normal;
+}
+@font-face {
+     font-family: "New York Small";
+     src: url("NewYork/NewYorkSmall-Semibold.woff2") format("woff2");
+     font-weight: 600;
+     font-style: normal;
+}
+@font-face {
+     font-family: "New York Small";
+     src: url("NewYork/NewYorkSmall-Bold.woff2") format("woff2");
+     font-weight: 700;
+     font-style: normal;
+}
+@font-face {
+     font-family: "New York Small";
+     src: url("NewYork/NewYorkSmall-Heavy.woff2") format("woff2");
+     font-weight: 800;
+     font-style: normal;
+}
+@font-face {
+     font-family: "New York Small";
+     src: url("NewYork/NewYorkSmall-Black.woff2") format("woff2");
+     font-weight: 900;
+     font-style: normal;
+}
+/* New York Small Italic */
+@font-face {
+     font-family: "New York Small";
+     src: url("NewYork/NewYorkSmall-RegularItalic.woff2") format("woff2");
+     font-weight: 400;
+     font-style: italic;
+}
+@font-face {
+     font-family: "New York Small";
+     src: url("NewYork/NewYorkSmall-MediumItalic.woff2") format("woff2");
+     font-weight: 500;
+     font-style: italic;
+}
+@font-face {
+     font-family: "New York Small";
+     src: url("NewYork/NewYorkSmall-SemiboldItalic.woff2") format("woff2");
+     font-weight: 600;
+     font-style: italic;
+}
+@font-face {
+     font-family: "New York Small";
+     src: url("NewYork/NewYorkSmall-BoldItalic.woff2") format("woff2");
+     font-weight: 700;
+     font-style: italic;
+}
+@font-face {
+     font-family: "New York Small";
+     src: url("NewYork/NewYorkSmall-HeavyItalic.woff2") format("woff2");
+     font-weight: 800;
+     font-style: italic;
+}
+@font-face {
+     font-family: "New York Small";
+     src: url("NewYork/NewYorkSmall-BlackItalic.woff2") format("woff2");
+     font-weight: 900;
+     font-style: italic;
+}
