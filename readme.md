@@ -69,8 +69,4 @@
 <br>
 
 Sourced from: https://github.com/mikage-961pro/Apple-Fonts 
-<br>
-Converter used: https://kombu.kanejaku.org/
-
-<br>
 
